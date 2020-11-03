@@ -13,4 +13,8 @@ Figure 1:  Sample of the Acquired Iamges.
 
 ## Overview of the proposed System
 
+![Image 2](https://user-images.githubusercontent.com/67760984/98016359-51c6db80-1e17-11eb-8941-11d41a01be9a.png)
+
+
+## Crack Localization Results
 
