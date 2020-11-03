@@ -18,3 +18,4 @@ Figure 1:  Sample of the Acquired Iamges.
 
 ## Crack Localization Results
 
+![Image](https://user-images.githubusercontent.com/67760984/98017353-8f783400-1e18-11eb-9a92-5c9e17bd02dd.png)
